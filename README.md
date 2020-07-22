@@ -1,11 +1,8 @@
 # MachineLearning
-1. [k-nearest neighbours and linear regression](./A1)
-   - `LIF` Neuron Model
-   - `Spiking` Network Model
-   - Experiments with Spiking Networks
+Conventional ML Algorithms
+   1. [Implementation of k-nearest neighbours (`KNN`) and linear regression](./A1)
+   2. [Implementation of (1) Mixtures of Gaussians and (2) Logistic Regression for classification](./A2)
 
-2. [Implementing Backpropagation](./A2)
-   - Implementing `Backpropagation` (an algorithm for training feedforward neural networks in supervised learning)
 
 
    
