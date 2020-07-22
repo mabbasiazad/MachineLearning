@@ -11,5 +11,8 @@
       - Gaussian Process Regression (Kernel Method)
 
 ## Modern ML Algorithms (Deep Learning)
-
+   4. [Non-linear regression](./A4)
+      - Regularized Generalized Linear Regression
+      - Bayesian Generalized Linear Regression
+      - Gaussian Process Regression (Kernel Method)
    
