@@ -4,4 +4,4 @@
   - Decoder Implementation
   - Sequence to Sequence Model (with `Attention`) Implementation
 
-![](./assets/SeqToSeq.png)
+![](MachineLearning/assets/SeqToSeq.png)
