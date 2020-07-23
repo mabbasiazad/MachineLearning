@@ -21,5 +21,5 @@
             - Natural Language as Sequences: Sequence to Sequence Model (with `Attention`) Implementation
 
 
-    ![](./assets/Seq2Seq.png)
+    ![](./assets/SeqToSeq.png)
    
