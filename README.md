@@ -19,5 +19,6 @@
             - Encoder Implementation with Linear Hidden Units, `GRU`s and `LSTM` Units 
             - Decoder Implementation
             - Natural Language as Sequences: Sequence to Sequence Model (with `Attention`) Implementation
-         
+    
+    ![](./assets/Seq2Seq.png)     
    
