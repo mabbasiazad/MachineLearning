@@ -18,6 +18,6 @@
          - Recurrent Neural Network (`RNN`) Implementation
             - Encoder Implementation with Linear Hidden Units, `GRU`s and `LSTM` Units 
             - Decoder Implementation
-            - Sequence to Sequence Model (with `Attention`) Implementation
+            - Natural Language as Sequences: Sequence to Sequence Model (with `Attention`) Implementation
          
    
