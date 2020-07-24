@@ -19,7 +19,7 @@
          - Application: Predicting which language a name is from based on the spelling
          
       - Decoder Implementation
-         - Application: generate names from languages
+         - Application: Generating names from languages
          
        - Natural Language as Sequences: Sequence to Sequence Model (with `Attention`) Implementation
 
