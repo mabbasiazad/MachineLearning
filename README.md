@@ -14,11 +14,14 @@
    4. [Convolutional Neural Networks (`CNN`s) in `TensorFlow`](./A4)
       - Experiment with Fully Connected Neural Networks and Convolutional Neural Networks
       
-   5. [Sequence Models in `PyTorch`](./A5)
-         - Recurrent Neural Network (`RNN`) Implementation
-            - Encoder Implementation with Linear Hidden Units, `GRU`s and `LSTM` Units 
-            - Decoder Implementation
-            - Natural Language as Sequences: Sequence to Sequence Model (with `Attention`) Implementation
+   5. [Sequence Models with Recurrent Neural Network (`RNN`) in `PyTorch`](./A5)
+      - Encoder Implementation with Linear Hidden Units, `GRU`s and `LSTM` Units 
+         - Application: Predicting which language a name is from based on the spelling
+         
+      - Decoder Implementation
+         - Application: Generating names from languages
+         
+       - Natural Language as Sequences: Sequence to Sequence Model (with `Attention`) Implementation
 
 
    ![](./assets/SeqToSeq.png)
