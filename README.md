@@ -26,7 +26,7 @@
          ![](./assets/decoder.png)
          
        - Natural Language as Sequences: Sequence to Sequence Model (with `Attention`) Implementation
-         - Translating from one language to another
+         - Application: Translating from one language to another
           
       ![](./assets/SeqToSeq.png)
    
