@@ -18,8 +18,12 @@
       - Encoder Implementation with Linear Hidden Units, `GRU`s and `LSTM` Units 
          - Application: Predicting which language a name is from based on the spelling
          
+         ![](./assets/encoder.png)
+         
       - Decoder Implementation
          - Application: Generating names from languages
+         
+         ![](./assets/decoder.png)
          
        - Natural Language as Sequences: Sequence to Sequence Model (with `Attention`) Implementation
 
